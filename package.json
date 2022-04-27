@@ -1,0 +1,18 @@
+{
+  "name": "seccion6",
+  "version": "1.0.0",
+  "description": "Aplicacion de consola, que consume servicios de otros backends, para consultar lugares, y su clima.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.2"
+  }
+}
